@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b7e9fa8-2290-48bb-bec5-22459e7db20b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Exercicio/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex01/Exercicio Orientado a Objeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex01/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex01/src/entidades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/Exercicio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2U5D9mZ0POYo4AawmHJcmKoQd8E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b7e9fa8-2290-48bb-bec5-22459e7db20b" name="Changes" comment="" />
+      <created>1692220399796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692220399796</updated>
+      <workItem from="1692220400988" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
