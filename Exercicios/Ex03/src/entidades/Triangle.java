@@ -14,3 +14,17 @@ public class Triangle { //nome da classe
         return Math.sqrt(p *(p - a) * (p - b) * (p - c));
     }  //Corpo do metodo
 }
+//Projeto de classe (UML)
+/*
+Triangle --Nome da classe
+-A : Double
+-B : Double --Atributos da classe
+-C : Double
+
++Area() : double -- Metodos da classe
+
+Mas quais sao os beneficios de usar a classes com os metodos:
+
+1) Reaproveitamento de codigo: nos eliminamos o codigo repetido
+2) delegacao de responsabilidades: quem deve ser responsavel por certas coisas do codigo
+*/
