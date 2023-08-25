@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b7e9fa8-2290-48bb-bec5-22459e7db20b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Exercicio/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex01/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex01/Exercicio Orientado a Objeto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex01/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex01/src/entidades.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/Exercicio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicio/Ex02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex04/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +19,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "vue.rearranger.settings.migration": "true"
@@ -44,6 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692220399796</updated>
       <workItem from="1692220400988" duration="19000" />
+      <workItem from="1692967415988" duration="20000" />
     </task>
     <servers />
   </component>

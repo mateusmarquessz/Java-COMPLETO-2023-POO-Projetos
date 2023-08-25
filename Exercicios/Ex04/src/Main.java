@@ -28,8 +28,8 @@ public class Main {
         System.out.println("Update data: " + product);
 
         System.out.print("Enter the number of products to be removed from stock: ");
-        int removed = sc.nextInt();
-        product.RemoveProducts(removed);
+        quantity = sc.nextInt();
+        product.RemoveProducts(quantity);
         sc.close();
     }
 }
