@@ -1,14 +1,38 @@
 package Dados;
 
 public class Product {
-    public String nome;
-    public double preco;
-    public int quantity;
+    private String nome;
+    private double preco;
+    private int quantity;
 
     public Product(String nome, double preco, int quantity) {
         this.nome = nome;
         this.preco = preco;
         this.quantity = quantity;
+    }
+
+    public double getPreco() {
+        return preco;
+    }
+
+    public void setPreco(double preco) {
+        this.preco = preco;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(int quantity) {
+        this.quantity = quantity;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 
     public double totalValueInStock(){
