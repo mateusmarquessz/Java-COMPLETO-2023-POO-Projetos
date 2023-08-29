@@ -9,9 +9,9 @@ public class Main {
 
         System.out.println("Enter product data:");
         System.out.printf("Name: ");
-        String nome = sc.nextLine();
+        nome = sc.nextLine();
         System.out.printf("Price");
-        Double preco = sc.nextDouble();
+        preco = sc.nextDouble();
         System.out.printf("Quantity in stock:");
         int quantity = sc.nextInt();
         Product product = new Product(nome, preco, quantity); //Construtor protege o programa de colocar um valor inesperado
