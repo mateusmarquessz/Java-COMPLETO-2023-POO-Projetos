@@ -10,7 +10,7 @@ public class Dados {
         this.nomeConta = nomeConta;
     }
     public Dados(int conta, String nomeConta, double depositoInicial) {
-        this.conta = Conta;
+        this.conta = conta;
         this.nomeConta = nomeConta;
         deposito(depositoInicial);
     }
@@ -37,5 +37,8 @@ public class Dados {
     }
     public void Saque(double amount){
         deposito -= amount - 5.0;
+    }
+    public String toString(){
+        return "Account " + conta + " Holder: " + nomeConta + ", Balance: $ " +String.format("%.2f", deposito);
     }
 }
